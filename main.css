@@ -48,7 +48,7 @@ html {
 
 .date{
     font-family: 'Playfair Display', serif;
-    text-align: right;
+    float:right;
     font-size: 20px;
 }
 
